@@ -1,2 +1,2 @@
-# AI Behabiour Test Project UE5
+# AI Behaviour Test Project UE5
  
